@@ -1,5 +1,5 @@
 package allprogramms;
-//added succefully to master git
+//removed this line for git
 import java.util.Scanner;
 
 public class ArmStrongNumForLoop {
